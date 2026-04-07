@@ -20,9 +20,9 @@ Berikut adalah daftar aplikasi yang telah dibuat:
 
   🔗 Download: [Klik Disini](https://github.com/KumaaDeveloper/Belajar_AndroidStudio/releases/download/MyViewAndViews/MyViewAndViews.apk)
 
-* **Nama Aplikasi 2**
+* **MyIntentApp**
 
-  🔗 Download: [https://link-download-apk-2](https://link-download-apk-2)
+  🔗 Download: [Klik Disini](https://github.com/KumaaDeveloper/Belajar_AndroidStudio/releases/download/MyIntentApp/MyIntentApp.apk)
 
 * **Nama Aplikasi 3**
 
