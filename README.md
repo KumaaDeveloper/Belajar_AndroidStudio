@@ -28,6 +28,10 @@ Berikut adalah daftar aplikasi yang telah dibuat:
 
   🔗 Download: [Klik Disini](https://github.com/KumaaDeveloper/Belajar_AndroidStudio/releases/download/TugasIntentBangun/TugasIntentBangun.apk)
 
+* **MyIntentAppLanjutan**
+
+  🔗 Download: [Klik Disini](https://github.com/KumaaDeveloper/Belajar_AndroidStudio/releases/download/MyIntentAppLanjutan/MyIntentAppLanjutan.apk)
+
 ## ⚙️ Teknologi yang Digunakan
 
 * Android Studio
