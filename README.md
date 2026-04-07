@@ -16,9 +16,9 @@ Tujuan utama:
 
 Berikut adalah daftar aplikasi yang telah dibuat:
 
-* **Nama Aplikasi 1**
+* **MyViewAndViews**
 
-  🔗 Download: [https://link-download-apk-1](https://link-download-apk-1)
+  🔗 Download: [Klik Disini](https://github.com/KumaaDeveloper/Belajar_AndroidStudio/releases/download/MyViewAndViews/MyViewAndViews.apk)
 
 * **Nama Aplikasi 2**
 
