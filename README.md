@@ -1,1 +1,41 @@
-# Belajar_AndroidStudio
+# 📱 Android Studio Assignments
+
+Repository ini berisi kumpulan tugas yang dibuat menggunakan **Android Studio** sebagai bagian dari proses pembelajaran pengembangan aplikasi Android.
+
+## 📌 Deskripsi
+
+Repo ini dibuat untuk mendokumentasikan berbagai latihan dan tugas, mulai dari konsep dasar hingga implementasi fitur yang lebih kompleks di Android.
+
+Tujuan utama:
+
+* Melatih kemampuan pengembangan aplikasi Android
+* Memahami konsep UI/UX di Android
+* Mengimplementasikan fitur menggunakan Java/Kotlin
+
+## 📂 Daftar Aplikasi
+
+Berikut adalah daftar aplikasi yang telah dibuat:
+
+* **Nama Aplikasi 1**
+
+  🔗 Download: [https://link-download-apk-1](https://link-download-apk-1)
+
+* **Nama Aplikasi 2**
+
+  🔗 Download: [https://link-download-apk-2](https://link-download-apk-2)
+
+* **Nama Aplikasi 3**
+
+  🔗 Download: [https://link-download-apk-3](https://link-download-apk-3)
+
+## ⚙️ Teknologi yang Digunakan
+
+* Android Studio
+* Java / Kotlin
+* XML Layout
+
+## 📎 Catatan
+
+Repository ini dibuat untuk keperluan pembelajaran. Setiap project dapat memiliki pendekatan yang berbeda sesuai dengan materi yang dipelajari.
+
+---
