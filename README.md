@@ -24,9 +24,9 @@ Berikut adalah daftar aplikasi yang telah dibuat:
 
   🔗 Download: [Klik Disini](https://github.com/KumaaDeveloper/Belajar_AndroidStudio/releases/download/MyIntentApp/MyIntentApp.apk)
 
-* **Nama Aplikasi 3**
+* **TugasIntentBangun**
 
-  🔗 Download: [https://link-download-apk-3](https://link-download-apk-3)
+  🔗 Download: [Klik Disini](https://github.com/KumaaDeveloper/Belajar_AndroidStudio/releases/download/TugasIntentBangun/TugasIntentBangun.apk)
 
 ## ⚙️ Teknologi yang Digunakan
 
