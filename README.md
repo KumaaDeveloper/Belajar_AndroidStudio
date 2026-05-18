@@ -34,7 +34,7 @@ Berikut adalah daftar aplikasi yang telah dibuat:
 
 * **UTS**
 
-  🔗 Download: [Klik Disini](https://github.com/KumaaDeveloper/Belajar_AndroidStudio/releases/download/MyIntentAppLanjutan/MyIntentAppLanjutan.apk)
+  🔗 Download: [Klik Disini](https://github.com/KumaaDeveloper/Belajar_AndroidStudio/releases/download/UTS/QuizDanUTSPBP.apk)
 
 ## ⚙️ Teknologi yang Digunakan
 
